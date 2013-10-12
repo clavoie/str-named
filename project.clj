@@ -1,4 +1,4 @@
-(defproject str-named "0.1.0-SNAPSHOT"
+(defproject str-named "1.0.0"
   :description "Stringify values using (name value) instead of (str value)"
   :url "https://github.com/clavoie/str-named"
   :license {:name "Eclipse Public License"
